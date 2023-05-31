@@ -1,0 +1,16 @@
+2D shooter-platformer game made 100% by me in 2021
+It's my first ever project in unity
+
+Controls:
+WASD - movement
+Space - Jump -> Double Jump
+L Ctrl - Crouch
+Left Shift - sprint
+Crouch While sprinting -> Slide
+LMB - Shoot/Interact
+R - Reload
+V - Melee Attack
+O - Pistol
+P - Rifle if collected -> If not - Fists 
+TAB - Menu
+Use items by clicking on them in inventory
